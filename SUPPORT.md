@@ -11,8 +11,5 @@ We also offer consulting and training services:
 https://www.ibexa.co/services
 
 ## Community support
-Please see our open discussion forum:
-https://discuss.ibexa.co/
-
-...and community Slack:
+Please see our community Slack:
 https://ezcommunity.slack.com/
