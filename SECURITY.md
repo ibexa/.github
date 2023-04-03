@@ -1,7 +1,7 @@
 # Security
 
 ## How to report security vulnerabilities
-https://doc.ibexa.co/en/latest/guide/reporting_issues/
+https://doc.ibexa.co/en/latest/infrastructure_and_maintenance/security/reporting_issues/
 
 ## Security advisories
 https://developers.ibexa.co/security-advisories
