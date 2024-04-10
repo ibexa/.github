@@ -3,7 +3,7 @@
 
 <!-- 
 #### Related PRs: 
-    - https://github.com/ibexa/core/pull/1
+- https://github.com/ibexa/core/pull/1
 -->
 
 #### Description:
