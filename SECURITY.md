@@ -10,4 +10,4 @@ https://developers.ibexa.co/security-advisories
 https://www.ibexa.co/software-information/security
 
 ## Security blog posts
-https://www.ibexa.co/topics/id/60
+https://www.ibexa.co/blog-authors/gunnstein-lye
